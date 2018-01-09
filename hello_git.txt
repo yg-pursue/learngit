@@ -4,3 +4,4 @@ Test the reset!
 Fourth test!
 Five！
 Six！
+Seven！
