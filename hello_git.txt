@@ -2,3 +2,5 @@ Git is a distributed version control system.
 Git is free software.
 Test the reset!
 Fourth test!
+Five！
+Six！
